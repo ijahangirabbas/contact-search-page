@@ -11,6 +11,8 @@ A lightweight single-page web application for searching contacts and recording i
 - Comment submission
 - Timestamped records
 - JSON-based storage
+- Also in Excel file
+
 
 ## Tech Stack
 
